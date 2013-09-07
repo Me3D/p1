@@ -1,4 +1,4 @@
-blah
+Project 1
 ====
 
-blah
+This is the repository for Project 1.
