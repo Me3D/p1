@@ -1,7 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {line-height:1.5;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;color:#000;background:none;font-size:10pt;}
-.container {background:none;}
-
-p {margin-top:0;}
+h1 {background-color:#b0c4de}
+p {line-height:1.5;font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;color:#000;background:none;font-size:20pt;}
